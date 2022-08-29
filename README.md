@@ -1,8 +1,10 @@
 # youtubeの動画を見てgitの使い方の練習
 
-originはリモートサーバー(GitHub)のこと．
-`$ git log`を使ったら`$ q`で脱出できる 
-
+* originはリモートサーバー(GitHub)のこと．  
+* `$ git log`を使ったら`$ q`で脱出できる   
+* `$ git pull origin main`でリモートリポジトリからローカルリポジトリに読み込む  
+* `$ git checkout -b develop main`：mainから新しく枝分かれさせたdevelop branchを作る. $\leftarrow$これ使うとかいな？
+* 
 
 ## readmeファイルはマークダウン方式
 
